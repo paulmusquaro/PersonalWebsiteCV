@@ -1,3 +1,2 @@
 # PersonalWebsiteCV
-
-https://github.com/user-attachments/assets/049fdbf4-37db-49ae-9b41-f15bdc2d88a0
+https://github.com/user-attachments/assets/260d1638-1619-4fa8-976d-a5ba045df96d
