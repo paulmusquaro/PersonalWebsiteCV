@@ -1,0 +1,268 @@
+body {
+    background: #efe4b8;
+    padding: 40px 40px 40px 40px;
+    font-family: "Montserrat", sans-serif;
+}
+
+ul,
+ol {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.wrapper {
+    background: #f9ce80;
+    border-radius: 20px;
+    border: 4px solid salmon;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.main-container {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}
+
+.aside {
+    background: blanchedalmond;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding-left: 30px;
+    padding-top: 60px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+    width: 440px;
+}
+
+img {
+    border-radius: 40px;
+    border: 3px solid rgb(230, 138, 128);
+}
+
+.sidebar-content {
+    padding-top: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+}
+
+.contacts-title {
+    line-height: normal;
+    margin-top: 0%;
+    margin-bottom: 8px;
+}
+
+.contacts-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 8px;
+    margin-left: 12px;
+}
+
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.contacts-item {
+    margin-top: 0%;
+    margin-bottom: 3px;
+}
+
+.contacts-container {
+    margin-bottom: 40px;
+}
+
+.skills-container {
+    margin-bottom: 40px;
+}
+
+.skills-title {
+    line-height: normal;
+    margin-top: 0%;
+    margin-bottom: 8px;
+}
+
+.skills-list {
+    padding-left: 22px;
+}
+
+.skills-list-item {
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.my-profession {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    margin-top: 0%;
+    margin-bottom: 8px;
+}
+
+.my-name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 55px;
+    margin-top: 0%;
+    margin-bottom: 12px;
+}
+
+.my-description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.my-info {
+    margin-bottom: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+.my-projects-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0%;
+    margin-bottom: 8px;
+}
+
+.my-projects-item {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.my-projects-list {
+    padding-left: 16px;
+    margin-top: 0%;
+}
+
+.my-projects-item-link {
+    color: blueviolet;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+
+.my-projects-item-tech {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.my-projects-container {
+    margin-bottom: 40px;
+}
+
+.work-experience-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0%;
+    margin-bottom: 8px;
+}
+
+.work-experience-company {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: 0%;
+    margin-bottom: 12px;
+}
+
+.company-name {
+    color: brown;
+}
+
+.work-experience-period {
+    color: darkslategray;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 8px;
+}
+
+.work-experience-period-separator {
+    color: black;
+    font-weight: 500;
+}
+
+.work-experience-duties-list {
+    color: darkslategray;
+    padding-left: 18px;
+}
+
+.work-experience-duties-item {
+    font-size: 14px;
+    font-weight: 450;
+    line-height: 24px;
+}
+
+.work-experience-container {
+    margin-bottom: 12px;
+}
+
+.work-experience-main-container {
+    margin-bottom: 40px;
+}
+
+
+.education-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    margin-top: 0%;
+    margin-bottom: 14px;
+}
+
+.education-place {
+    font-family: "Montserrat",
+        sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: brown;
+    margin-top: 9px;
+    margin-bottom: 12px;
+}
+
+.education-place-profession {
+    font-family: "Montserrat",
+        sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 10px;
+    color: #000;
+    margin-top: 0%;
+    margin-bottom: 8px;
+}
+
+
+.education-period {
+    font-family: "Montserrat",
+        sans-serif;
+    color: darkslategray;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-bottom: 8px;
+}
+
+
+.education-period-separator {
+    color: black;
+    font-weight: 500;
+}
