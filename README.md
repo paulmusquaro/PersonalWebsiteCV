@@ -1,3 +1,3 @@
 # PersonalWebsiteCV
 
-![Image](https://github.com/user-attachments/assets/601e31b0-e61e-4486-8987-f43d1e37b1f9)
+https://github.com/user-attachments/assets/049fdbf4-37db-49ae-9b41-f15bdc2d88a0
