@@ -2,7 +2,7 @@
 
 This project was created as a personal exercise to enhance skills in **HTML** and **CSS**. It features a simple, responsive webpage showcasing various sections like professional details, projects, work experience, education, skills, and contact information.
 
-![Image](https://github.com/user-attachments/assets/cccb2379-90b0-4019-8496-27aa76801b0b)
+![Image](https://github.com/user-attachments/assets/f80b17f3-9992-457c-813e-598684cf886f)
 
 
 ## Features
